@@ -1,2 +1,2 @@
 # TIE
-Codes for TIE images reconstruction
+Codes for Electrical Impedance Tomography (EIT) images reconstruction
